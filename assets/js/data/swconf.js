@@ -1,16 +1,16 @@
 const swconf = {
   
-    cacheName: 'chirpy-1745670317',resources: [
-      '/assets/css/jekyll-theme-chirpy.css',
-      '/',
+    cacheName: 'chirpy-1745675763',resources: [
+      '/donisor.github.io/assets/css/jekyll-theme-chirpy.css',
+      '/donisor.github.io/',
       
-        '/categories/',
+        '/donisor.github.io/categories/',
       
-        '/tags/',
+        '/donisor.github.io/tags/',
       
-        '/archives/',
+        '/donisor.github.io/archives/',
       
-        '/about/',
+        '/donisor.github.io/about/',
       
 
       

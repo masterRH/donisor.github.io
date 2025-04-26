@@ -1,33 +1,33 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://donisor.github.io/</id>
+  <id>https://donisor.github.io/donisor.github.io/</id>
   <title>Tech Nomad</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-04-26T20:25:16+08:00</updated>
+  <updated>2025-04-26T21:56:02+08:00</updated>
   <author>
     <name>your_full_name</name>
-    <uri>https://donisor.github.io/</uri>
+    <uri>https://donisor.github.io/donisor.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://donisor.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://donisor.github.io/donisor.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://donisor.github.io/"/>
+    href="https://donisor.github.io/donisor.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 your_full_name </rights>
-  <icon>/assets/img/favicons/favicon.ico</icon>
-  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/donisor.github.io/assets/img/favicons/favicon.ico</icon>
+  <logo>/donisor.github.io/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
     <title>Text and Typography</title>
-    <link href="https://donisor.github.io/posts/text-and-typography/" rel="alternate" type="text/html" title="Text and Typography" />
+    <link href="https://donisor.github.io/donisor.github.io/posts/text-and-typography/" rel="alternate" type="text/html" title="Text and Typography" />
     <published>2019-08-08T11:33:00+08:00</published>
   
     <updated>2019-08-08T11:33:00+08:00</updated>
   
-    <id>https://donisor.github.io/posts/text-and-typography/</id>
-    <content type="text/html" src="https://donisor.github.io/posts/text-and-typography/" />
+    <id>https://donisor.github.io/donisor.github.io/posts/text-and-typography/</id>
+    <content type="text/html" src="https://donisor.github.io/donisor.github.io/posts/text-and-typography/" />
     <author>
       <name>cotes</name>
     </author>

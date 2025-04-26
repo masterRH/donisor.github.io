@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://donisor.github.io/sitemap.xml
+Sitemap: https://donisor.github.io/donisor.github.io/sitemap.xml
