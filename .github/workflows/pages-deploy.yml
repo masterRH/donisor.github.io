@@ -33,6 +33,7 @@ jobs:
       - name: Install dependencies
         run: |
           bundle install
+          npm install
           npm ci
 
       - name: Build site
